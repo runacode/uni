@@ -1,7 +1,7 @@
-<?php $company = "WALDON AUTOMOTIVE SERVICE";
-$phone = "(812) 537-1865";
-	$address1 = "348 W EADS PKWY";
-	$address2 = "LAWRENCEBURG, IN 47025";
+<?php $company = "UNIQUE AUTOMOTIVE & LUBE INC";
+$phone = "(732) 657-2223";
+	$address1 = "201 ROUTE 70";
+	$address2 = "JOINT BASE MDL, NJ 08733-2917";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
